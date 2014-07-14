@@ -1,0 +1,61 @@
+body{
+	background: lightcyan;
+	width: 80%;
+	margin: 150px auto;
+	font-size: 100%;
+}
+/* Main HTML Section*/
+main{
+	width: 500px;
+	margin: auto;
+	padding: 0;
+	background: lightgray;
+}
+nav{
+	float: left;
+}
+nav p{
+	margin: 0px;
+	padding: 0px
+}
+
+h1 {
+	color: maroon;
+	text-align: center;
+	font-family: 'lobster';
+	font-size: xx-large;
+}
+
+/*	Body */
+div.hello p {
+	color: black;
+	border: 1px solid gray;
+	padding: 10px;
+
+
+}
+
+div.inline {
+	background: lightgray;
+	border: 5px solid maroon;
+	text-align: center;
+	padding: 5px;
+	}
+div.block{
+	background: lightgray;
+	border: 5px solid maroon;
+	text-align: center;
+	padding: 5px;
+	
+}
+	
+a{
+	color: cornflowerblue;
+	text-decoration: none;
+}
+a:visited{
+	color: tomato;
+}
+a:hover{
+ text-decoration: underline;
+}
