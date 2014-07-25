@@ -46,8 +46,12 @@ main{
 	border-radius:5px;
 	color:ivory;
 	background:olivedrab;
+	cursor: pointer;
 	font-size:1.5;
 	margin-left:5px;
+}
+.comment_input span:hover{
+	cursor:pointer;
 }
 .comments{
 	float: right;
