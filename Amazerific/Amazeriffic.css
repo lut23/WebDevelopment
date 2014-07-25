@@ -1,0 +1,109 @@
+body h1, body h2, body h3, body h4, body h5 {
+	font-family: 'Ubuntu', sans-serif;
+}
+header, main, footer {
+	min-width: 855px;
+	font-family: 'Droid Sans', sans-serif;
+	padding: 50px;
+	line-height: 1.25;
+	
+}
+body{
+	background:#f9e933;
+	font-size: 100%;
+}
+header {
+	overflow: auto;
+	background: white;
+}
+header h1{
+	float: left;
+	width: 570px;
+	font-size: 300%;
+	padding: 25px;
+	padding-top: 30px;
+	padding-left: 50px;
+}
+header nav{
+	float: right;
+	width: 285px;
+	font-size: 135%;
+	padding: 25px;
+	padding-top: 30px;
+	padding-right: 100px;
+}
+a{
+	color: red;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+main {
+	background: white;
+	overflow: auto;
+}
+main h2{
+	font-size: 200%;
+	width: 550px;
+}
+main h3{
+	font-size: 150%;
+	margin-top:35px;
+}
+#content{
+	float: left;
+	width: 450px;
+}
+#logo{
+	float: right;
+	width: 405px;
+}
+#sub{
+	clear:both;
+}
+.contact{
+	float:left;
+	width: 285px;
+	padding: 25px;
+	font-size: 115%;
+	font-family: 'Droid Sans';
+	line-height: 1.25;
+	
+}
+.contact h5{
+	font-size: 135%;
+	margin-bottom: 15px;
+}
+.sitemap{
+	float: right;
+	width: 570px;
+	padding: 25px;
+	font-size: 115%;
+	font-family: 'Droid Sans';
+	line-height: 1.25;
+}
+.sitemap h5{
+	font-size: 135%;
+	margin-bottom:15px;
+}
+.sitemap ul{
+	width: 30em;
+}
+.sitemap li{
+	float:left;
+	width: 11em;
+}
+br{
+	clear: left;
+}
+
+header.container, main.container, footer.container{
+	max-width: 855px;
+	margin: auto;
+}
+#faq h2{
+	margin-bottom: 15px;
+	margin-top: 20px;
+	
+}
