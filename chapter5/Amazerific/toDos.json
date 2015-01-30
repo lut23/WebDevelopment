@@ -1,0 +1,26 @@
+[
+ {
+   "description": "Get groceries",
+   "tags": ["shopping","chores"]
+ },
+ {
+   "description": "Finish this book",
+   "tags": ["work","reading"]
+ },
+ {
+   "description": "do the dishes",
+   "tags": ["chores"]
+ },
+ {
+   "description": "Get yellow onions",
+   "tags": ["shopping","chores"]
+ },
+ {
+   "description": "Finish reading the Princess of Mars",
+   "tags": ["shopping","reading"]
+ },
+ {
+   "description": "Get text books",
+   "tags": ["shopping","work"]
+ }
+]

@@ -1,0 +1,9 @@
+    body{
+    margin: 4% 10% 4% 10%;
+	padding: 20px 20px 20px 20px;
+	background: lightyellow;
+    }
+    div.photos {
+	border: 10px ridge lightblue;
+	background: #E7F7FF;
+    }
